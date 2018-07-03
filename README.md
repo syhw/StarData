@@ -46,9 +46,9 @@ you're good to go. All cpp files can be run like `script /path/to/replays/**/*.r
 
 The white paper for the dataset is at:
 
-Lin, Z., G., Jonas, K., Vasil, Synnaeve, G., AIIDE 2017. _STARDATA: A StarCraft AI Research Dataset_
+[Lin, Z., G., Jonas, K., Vasil, Synnaeve, G., STARDATA: A StarCraft AI Research Dataset, AIIDE 2017](https://arxiv.org/abs/1708.02139).
 
-We attribute most of the replays to [bwrep](http://bwreplays.com/) and [G. Synnaeve, P. Bessiere, A Dataset for StarCraft AI & an Example of Armies Clustering, 2012.](https://arxiv.org/pdf/1211.4552.pdf)
+We attribute most of the replays to [bwrep](http://bwreplays.com/) and [G. Synnaeve, P. Bessiere, A Dataset for StarCraft AI & an Example of Armies Clustering, 2012](https://arxiv.org/abs/1211.4552).
 Please see the paper for a complete list of references.
 
 ## License
